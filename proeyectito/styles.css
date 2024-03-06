@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa; /* Color de fondo */
+}
+.container {
+    padding-top: 50px; /* Espacio en la parte superior */
+    text-align: center; /* Alinear al centro */
+}
+h1 {
+    font-size: 3rem; /* Tamaño de fuente grande */
+    margin-bottom: 20px; /* Espacio inferior */
+}
+p {
+    font-size: 1.5rem; /* Tamaño de fuente mediano */
+}
